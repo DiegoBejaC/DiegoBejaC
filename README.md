@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Diego Bejarano, better known here as @DiegoBejaC
+- 👀 I’m interested in learning and becoming a great software developer.
+- 🌱 I’m currently studying the carrer of Computing Engineering since I really like Computing and other related topics. 
+- 📫 You can reach me by email at diegobejarano.adoc@gmail.com. I also got my Facebook profile, you can find me as Diego Bejarano.
+- Thank you for reading this file and nice to meet you!
